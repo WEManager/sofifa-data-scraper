@@ -1,8 +1,13 @@
 {
-  "name": "fifa-data-scraper",
+  "name": "sofifa-data-scraper",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "author": {
+    "name": "Marcelo 'teka' Oliveira",
+    "email": "marcelotk_15@hotmail.com",
+    "url": "https://teka.dev"
+  },
   "scripts": {
     "start": "ts-node-dev --respawn --transpile-only -r tsconfig-paths/register src/Data/Vendors/SoFifa/index.ts"
   },
