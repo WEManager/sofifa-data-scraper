@@ -1,0 +1,3 @@
+export const BASE_URL = 'https://sofifa.com'
+
+export const allFilterPlayers = ['ae', 'hi', 'pf', 'oa', 'pt', 'vl', 'wg', 'rc', 'wk', 'sk', 'aw', 'dw', 'pac', 'sho', 'pas', 'dri', 'def', 'phy', 'pi', 'wi', 'bo', 'bp', 'gu', 'jt', 'le', 'ta', 'cr', 'he', 'fi', 'sh', 'vo', 'ts', 'dr', 'cu', 'fr', 'lo', 'bl', 'to', 'ac', 'cm', 'ju', 'tp', 'so', 'ba', 're', 'ag', 'sp', 'st', 'sr', 'ln', 'ar', 'te', 'po', 'in', 'pe', 'vi', 'ma', 'td', 'sl', 'sa', 'tg', 'gd', 'gc', 'gh', 'gp', 'gr', 'bs', 'tt', 'ir', 'bt']
